@@ -14,9 +14,9 @@
     "url": "git@github.com-eviltik:eviltik/evilshot"
   },
   "keywords": [
-    "web application",
-    "monitoring",
-    "security"
+    "web-application-monitoring",
+    "web-application-status",
+    "web-application-security"
   ],
   "author": "eviltik",
   "license": "GPL-3.0",
